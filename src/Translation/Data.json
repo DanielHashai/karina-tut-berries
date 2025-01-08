@@ -1,0 +1,128 @@
+{
+  "english": {
+    "header": {
+      "home": "Home",
+      "strawberries": "Strawberries",
+      "categories": "Categories",
+      "newItem": "New Item",
+      "logout": "Logout",
+      "login": "Login"
+    },
+    "home": {
+      "topDelivery": "Delivery to center",
+      "topContent": "Welcome to Karina Tut berries",
+      "middleContent": "Instruction: The shelf life of fresh berries in chocolate is 24 hours. I advise you to use them in the first 24 hours or to use them in the first 12 hours or store in the refrigerator for no more than a day. Before eating, rest for 15-20 minutes at room temperature.",
+      "whatsappContent": "Order Here",
+      "instagramContent": "Visit Us"
+    },
+    "mainContainerContent": "All Of Our Products",
+    "rowContainer": {
+      "smallBox": "Small ",
+      "mediumBox": "Medium ",
+      "largeBox": "Large "
+    },
+    "menuContainer": {
+      "topContent": "Categories",
+      "darkChocolate": "Dark",
+      "milkChocolate": "Milk",
+      "pinkChocolate": "Pink",
+      "goldChocolate": "White",
+      "beverages": "Wine",
+      "mix": "Mix"
+    },
+    "createContainer": {
+      "select": "Select Cataegory",
+      "itemOne": "Item 1",
+      "itemTwo": "Item 2",
+      "itemThree": "Item 3",
+      "save": "Save"
+    },
+    "item": {
+      "whatsapp": "Order on whatsapp"
+    }
+  },
+  "russian": {
+    "header": {
+      "home": "Домой",
+      "strawberries": "клубника",
+      "categories": "категории",
+      "newItem": "новый предмет",
+      "logout": "Выйти",
+      "login": "Авторизоваться"
+    },
+    "home": {
+      "topDelivery": "Доставка по центру страны",
+      "topContent": "Добро пожаловать в Karina Tut Berries",
+      "middleContent": "Инструкция: Срок хранения свежих ягод в шоколаде – 24 часа. Перед едой советую достать из холодильника за 15-20 минут.",
+      "whatsappContent": "заказать здесь",
+      "instagramContent": "посетите нас"
+    },
+    "mainContainerContent": "Все наши продукты",
+    "rowContainer": {
+      "smallBox": "Маленькая",
+      "mediumBox": "Средняя",
+      "largeBox": "Большая"
+    },
+    "menuContainer": {
+      "topContent": "Категории",
+      "darkChocolate": "Тёмный",
+      "milkChocolate": "Молочный",
+      "pinkChocolate": "Розовый",
+      "goldChocolate": "Белый",
+      "beverages": "Вино",
+      "mix": "Микс"
+    },
+    "createContainer": {
+      "select": "Выберите категорию",
+      "itemOne": "пункт 1",
+      "itemTwo": "пункт 2",
+      "itemThree": "пункт 3",
+      "save": "Сохранять"
+    },
+    "item": {
+      "whatsapp": "Заказать в WhatsApp"
+    }
+  },
+  "hebrew": {
+    "header": {
+      "home": "בית",
+      "strawberries": "תותים",
+      "categories": "קטגוריות",
+      "newItem": "מוצר חדש",
+      "logout": "התנתק",
+      "login": "להתחבר"
+    },
+    "home": {
+      "topDelivery": "משלוחים לאיזור  למרכז",
+      "topContent": "ברוכים הבאים לקרינה תות בריז",
+      "middleContent": "הדרכה: חיי המדף של פירות יער טריים בשוקולד הם 24 שעות. אני ממליץ לך להשתמש בהם ב-24 השעות הראשונות או להשתמש בהם ב-12 השעות הראשונות או לאחסן במקרר לא יותר מיממה. לפני האכילה יש לנוח 15-20 דקות בטמפרטורת החדר.",
+      "whatsappContent": "תזמינו כאן",
+      "instagramContent": "בקרו אותנו"
+    },
+    "mainContainerContent": "כל המוצרים שלנו",
+    "rowContainer": {
+      "smallBox": "קטן ",
+      "mediumBox": "בינוני",
+      "largeBox": "גדול "
+    },
+    "menuContainer": {
+      "topContent": "קטגורויות",
+      "darkChocolate": "מריר",
+      "milkChocolate": "חלב",
+      "pinkChocolate": "ורוד",
+      "goldChocolate": "לבן",
+      "beverages": "יין",
+      "mix": "מעורבב"
+    },
+    "createContainer": {
+      "select": "תבחר קטגוריה",
+      "itemOne": "מוצר 1",
+      "itemTwo": "מוצר 2",
+      "itemThree": "מוצר 3",
+      "save": "שמור"
+    },
+    "item": {
+      "whatsapp": "הזמנות דרך הוואטסאפ"
+    }
+  }
+}
